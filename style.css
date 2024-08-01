@@ -58,3 +58,15 @@ body{
     color: #000;
     left:15%;
 }
+.color-box {
+  font-size: 200px;
+  color: white;
+  transition: color 2s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  font-family: "Klee One", serif;
+}
