@@ -9,8 +9,8 @@ body{
     width:200px;
     height:60px;
     position: absolute;
-    left:5%;
-    bottom:5%;
+    left:0%;
+    bottom:15%;
     transform: translate(0, 0);
 }
 .circle{
